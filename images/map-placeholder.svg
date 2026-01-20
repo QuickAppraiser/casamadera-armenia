@@ -1,0 +1,48 @@
+<svg width="500" height="350" viewBox="0 0 500 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="350" fill="#E8F5E9"/>
+
+  <!-- Map grid -->
+  <line x1="0" y1="70" x2="500" y2="70" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="0" y1="140" x2="500" y2="140" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="0" y1="210" x2="500" y2="210" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="0" y1="280" x2="500" y2="280" stroke="#C8E6C9" stroke-width="1"/>
+
+  <line x1="100" y1="0" x2="100" y2="350" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="350" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="350" stroke="#C8E6C9" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="350" stroke="#C8E6C9" stroke-width="1"/>
+
+  <!-- Roads -->
+  <rect x="0" y="160" width="500" height="30" fill="#FFFFFF"/>
+  <rect x="230" y="0" width="30" height="350" fill="#FFFFFF"/>
+
+  <!-- Buildings/blocks -->
+  <rect x="50" y="80" width="80" height="60" rx="4" fill="#A5D6A7"/>
+  <rect x="320" y="80" width="100" height="60" rx="4" fill="#A5D6A7"/>
+  <rect x="50" y="220" width="120" height="80" rx="4" fill="#A5D6A7"/>
+  <rect x="320" y="220" width="80" height="80" rx="4" fill="#A5D6A7"/>
+
+  <!-- Park area -->
+  <ellipse cx="420" cy="260" rx="50" ry="40" fill="#81C784"/>
+
+  <!-- Main location marker -->
+  <g transform="translate(245, 120)">
+    <ellipse cx="0" cy="50" rx="20" ry="8" fill="#000" opacity="0.2"/>
+    <path d="M0 0C-15 0-25 12-25 25C-25 45 0 55 0 55C0 55 25 45 25 25C25 12 15 0 0 0Z" fill="#EA4335"/>
+    <circle cx="0" cy="22" r="10" fill="white"/>
+  </g>
+
+  <!-- Location label -->
+  <rect x="150" y="85" width="180" height="30" rx="15" fill="#5D4037"/>
+  <text x="240" y="105" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">CasaMadera Armenia</text>
+
+  <!-- Street labels -->
+  <text x="380" y="180" font-family="Arial" font-size="10" fill="#666">Centro de Armenia</text>
+  <text x="245" y="320" font-family="Arial" font-size="10" fill="#666" text-anchor="middle">Quindío, Colombia</text>
+
+  <!-- Compass -->
+  <g transform="translate(450, 40)">
+    <circle cx="0" cy="0" r="20" fill="white" stroke="#DDD"/>
+    <text x="0" y="5" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">N</text>
+  </g>
+</svg>

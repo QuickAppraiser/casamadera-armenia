@@ -1,0 +1,38 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FAFAFA"/>
+
+  <!-- Closet frame -->
+  <rect x="50" y="30" width="300" height="230" rx="4" fill="#5D4037"/>
+
+  <!-- Door 1 -->
+  <rect x="55" y="35" width="70" height="220" rx="2" fill="#6D4C41"/>
+  <rect x="60" y="40" width="60" height="210" fill="#8D6E63"/>
+  <rect x="110" y="130" width="8" height="40" rx="4" fill="#D7CCC8"/>
+
+  <!-- Door 2 -->
+  <rect x="130" y="35" width="70" height="220" rx="2" fill="#6D4C41"/>
+  <rect x="135" y="40" width="60" height="210" fill="#8D6E63"/>
+  <rect x="132" y="130" width="8" height="40" rx="4" fill="#D7CCC8"/>
+
+  <!-- Door 3 -->
+  <rect x="205" y="35" width="70" height="220" rx="2" fill="#6D4C41"/>
+  <rect x="210" y="40" width="60" height="210" fill="#8D6E63"/>
+  <rect x="260" y="130" width="8" height="40" rx="4" fill="#D7CCC8"/>
+
+  <!-- Door 4 -->
+  <rect x="280" y="35" width="65" height="220" rx="2" fill="#6D4C41"/>
+  <rect x="285" y="40" width="55" height="210" fill="#8D6E63"/>
+  <rect x="282" y="130" width="8" height="40" rx="4" fill="#D7CCC8"/>
+
+  <!-- Top molding -->
+  <rect x="45" y="25" width="310" height="10" rx="2" fill="#4E342E"/>
+
+  <!-- Base -->
+  <rect x="45" y="260" width="310" height="10" rx="2" fill="#4E342E"/>
+
+  <!-- Floor -->
+  <rect x="0" y="270" width="400" height="30" fill="#EFEBE9"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" y="268" rx="155" ry="6" fill="#D7CCC8" opacity="0.5"/>
+</svg>

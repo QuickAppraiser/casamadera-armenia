@@ -1,0 +1,42 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FAFAFA"/>
+
+  <!-- Sofa back -->
+  <rect x="40" y="90" width="320" height="80" rx="10" fill="#5D4037"/>
+
+  <!-- Back cushions -->
+  <rect x="50" y="100" width="95" height="60" rx="6" fill="#8D6E63"/>
+  <rect x="152" y="100" width="95" height="60" rx="6" fill="#8D6E63"/>
+  <rect x="254" y="100" width="95" height="60" rx="6" fill="#8D6E63"/>
+
+  <!-- Seat/Bed base -->
+  <rect x="40" y="170" width="320" height="60" rx="8" fill="#6D4C41"/>
+
+  <!-- Mattress surface -->
+  <rect x="45" y="168" width="310" height="45" rx="6" fill="#A1887F"/>
+
+  <!-- Fold line indicating convertible -->
+  <line x1="200" y1="175" x2="200" y2="210" stroke="#8D6E63" stroke-width="2" stroke-dasharray="5,5"/>
+
+  <!-- Pillow -->
+  <ellipse cx="90" y="190" rx="35" ry="15" fill="#EFEBE9"/>
+
+  <!-- Arms -->
+  <rect x="30" y="130" width="20" height="100" rx="6" fill="#5D4037"/>
+  <rect x="350" y="130" width="20" height="100" rx="6" fill="#5D4037"/>
+
+  <!-- Legs -->
+  <rect x="50" y="230" width="12" height="15" rx="2" fill="#3E2723"/>
+  <rect x="338" y="230" width="12" height="15" rx="2" fill="#3E2723"/>
+
+  <!-- Convertible icon -->
+  <circle cx="350" cy="60" r="25" fill="#25D366" opacity="0.2"/>
+  <path d="M340 55 L350 65 L360 55" stroke="#25D366" stroke-width="2" fill="none"/>
+  <path d="M340 65 L350 55 L360 65" stroke="#25D366" stroke-width="2" fill="none" transform="translate(0, 10)"/>
+
+  <!-- Floor -->
+  <rect x="0" y="260" width="400" height="40" fill="#EFEBE9"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" y="255" rx="170" ry="8" fill="#D7CCC8" opacity="0.5"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFF8E7"/>
+
+  <!-- Headboard -->
+  <rect x="60" y="80" width="280" height="80" rx="8" fill="#5D4037"/>
+  <rect x="70" y="90" width="120" height="60" rx="6" fill="#6D4C41"/>
+  <rect x="210" y="90" width="120" height="60" rx="6" fill="#6D4C41"/>
+
+  <!-- Bed base -->
+  <rect x="50" y="160" width="300" height="70" rx="6" fill="#8D6E63"/>
+
+  <!-- Mattress -->
+  <rect x="55" y="155" width="290" height="50" rx="8" fill="#EFEBE9"/>
+  <rect x="60" y="160" width="280" height="40" rx="6" fill="white"/>
+
+  <!-- Pillows -->
+  <ellipse cx="120" y="175" rx="45" ry="20" fill="#F5F5F5"/>
+  <ellipse cx="280" y="175" rx="45" ry="20" fill="#F5F5F5"/>
+
+  <!-- Blanket fold -->
+  <path d="M60 200 Q200 180 340 200 L340 205 Q200 185 60 205 Z" fill="#D7CCC8"/>
+
+  <!-- Bed legs -->
+  <rect x="60" y="230" width="15" height="20" rx="2" fill="#4E342E"/>
+  <rect x="325" y="230" width="15" height="20" rx="2" fill="#4E342E"/>
+
+  <!-- Floor line -->
+  <line x1="20" y1="250" x2="380" y2="250" stroke="#D7CCC8" stroke-width="2"/>
+
+  <!-- Label -->
+  <rect x="110" y="260" width="180" height="25" rx="12" fill="#5D4037"/>
+  <text x="200" y="277" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">CAMAS Y COLCHONES</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFF8E7"/>
+
+  <!-- Sofa back -->
+  <rect x="50" y="100" width="300" height="70" rx="8" fill="#5D4037"/>
+
+  <!-- Back cushions -->
+  <rect x="60" y="110" width="90" height="50" rx="6" fill="#8D6E63"/>
+  <rect x="155" y="110" width="90" height="50" rx="6" fill="#8D6E63"/>
+  <rect x="250" y="110" width="90" height="50" rx="6" fill="#8D6E63"/>
+
+  <!-- Extended bed part -->
+  <rect x="50" y="170" width="300" height="60" rx="6" fill="#6D4C41"/>
+  <rect x="55" y="168" width="290" height="45" rx="4" fill="#A1887F"/>
+
+  <!-- Pillow on extended part -->
+  <ellipse cx="100" y="185" rx="35" ry="15" fill="#EFEBE9"/>
+
+  <!-- Legs -->
+  <rect x="60" y="230" width="10" height="15" rx="2" fill="#3E2723"/>
+  <rect x="330" y="230" width="10" height="15" rx="2" fill="#3E2723"/>
+
+  <!-- Transformation arrows -->
+  <path d="M370 140 L385 155 L370 170" stroke="#25D366" stroke-width="3" fill="none"/>
+  <path d="M385 155 L355 155" stroke="#25D366" stroke-width="3"/>
+
+  <!-- Floor line -->
+  <line x1="20" y1="245" x2="380" y2="245" stroke="#D7CCC8" stroke-width="2"/>
+
+  <!-- Label -->
+  <rect x="130" y="260" width="140" height="25" rx="12" fill="#5D4037"/>
+  <text x="200" y="277" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">SOFÁCAMAS</text>
+</svg>

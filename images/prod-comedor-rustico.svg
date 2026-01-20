@@ -1,0 +1,45 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FAFAFA"/>
+
+  <!-- Table -->
+  <rect x="70" y="130" width="260" height="20" rx="4" fill="#5D4037"/>
+  <rect x="75" y="125" width="250" height="10" rx="2" fill="#6D4C41"/>
+
+  <!-- Table legs -->
+  <rect x="90" y="150" width="15" height="80" fill="#4E342E"/>
+  <rect x="295" y="150" width="15" height="80" fill="#4E342E"/>
+
+  <!-- Cross support -->
+  <rect x="90" y="180" width="220" height="8" rx="2" fill="#5D4037"/>
+
+  <!-- Chairs - Left side -->
+  <rect x="30" y="150" width="40" height="45" rx="4" fill="#6D4C41"/>
+  <rect x="35" y="115" width="30" height="40" rx="4" fill="#8D6E63"/>
+  <rect x="35" y="195" width="8" height="30" rx="2" fill="#4E342E"/>
+  <rect x="57" y="195" width="8" height="30" rx="2" fill="#4E342E"/>
+
+  <!-- Chairs - Right side -->
+  <rect x="330" y="150" width="40" height="45" rx="4" fill="#6D4C41"/>
+  <rect x="335" y="115" width="30" height="40" rx="4" fill="#8D6E63"/>
+  <rect x="335" y="195" width="8" height="30" rx="2" fill="#4E342E"/>
+  <rect x="357" y="195" width="8" height="30" rx="2" fill="#4E342E"/>
+
+  <!-- Back chairs -->
+  <rect x="130" y="85" width="35" height="45" rx="4" fill="#8D6E63"/>
+  <rect x="235" y="85" width="35" height="45" rx="4" fill="#8D6E63"/>
+
+  <!-- Table items -->
+  <ellipse cx="150" y="120" rx="20" ry="10" fill="#BCAAA4"/>
+  <ellipse cx="200" y="115" rx="15" ry="8" fill="#81C784"/>
+  <ellipse cx="250" y="120" rx="20" ry="10" fill="#BCAAA4"/>
+
+  <!-- Centerpiece -->
+  <rect x="185" y="100" width="30" height="25" rx="4" fill="#A1887F"/>
+  <ellipse cx="200" y="95" rx="20" ry="15" fill="#66BB6A"/>
+
+  <!-- Floor -->
+  <rect x="0" y="260" width="400" height="40" fill="#EFEBE9"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" y="255" rx="150" ry="10" fill="#D7CCC8" opacity="0.5"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FAFAFA"/>
+
+  <!-- L-shaped sofa -->
+  <!-- Main section -->
+  <rect x="40" y="130" width="250" height="90" rx="10" fill="#5D4037"/>
+  <rect x="50" y="115" width="230" height="25" rx="6" fill="#6D4C41"/>
+
+  <!-- Cushions main -->
+  <rect x="55" y="140" width="70" height="60" rx="6" fill="#8D6E63"/>
+  <rect x="130" y="140" width="70" height="60" rx="6" fill="#8D6E63"/>
+  <rect x="205" y="140" width="70" height="60" rx="6" fill="#8D6E63"/>
+
+  <!-- Back cushions -->
+  <rect x="58" y="120" width="65" height="20" rx="4" fill="#A1887F"/>
+  <rect x="133" y="120" width="65" height="20" rx="4" fill="#A1887F"/>
+  <rect x="208" y="120" width="65" height="20" rx="4" fill="#A1887F"/>
+
+  <!-- Chaise section -->
+  <rect x="290" y="130" width="80" height="130" rx="10" fill="#5D4037"/>
+  <rect x="295" y="140" width="70" height="115" rx="6" fill="#8D6E63"/>
+
+  <!-- Decorative pillows -->
+  <ellipse cx="85" y="160" rx="20" ry="15" fill="#FFCC80"/>
+  <ellipse cx="245" y="160" rx="20" ry="15" fill="#81C784"/>
+
+  <!-- Legs -->
+  <rect x="55" y="220" width="10" height="15" rx="2" fill="#3E2723"/>
+  <rect x="265" y="220" width="10" height="15" rx="2" fill="#3E2723"/>
+  <rect x="355" y="260" width="10" height="15" rx="2" fill="#3E2723"/>
+
+  <!-- Floor -->
+  <rect x="0" y="275" width="400" height="25" fill="#EFEBE9"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" y="270" rx="170" ry="8" fill="#D7CCC8" opacity="0.5"/>
+</svg>

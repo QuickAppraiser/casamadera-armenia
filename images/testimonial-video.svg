@@ -1,0 +1,28 @@
+<svg width="400" height="250" viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="250" fill="#5D4037"/>
+
+  <!-- Living room background -->
+  <rect x="0" y="180" width="400" height="70" fill="#4E342E"/>
+
+  <!-- Sofa silhouette -->
+  <rect x="50" y="130" width="150" height="50" rx="8" fill="#6D4C41"/>
+
+  <!-- Person silhouette -->
+  <ellipse cx="300" cy="100" rx="40" ry="45" fill="#8D6E63"/>
+  <ellipse cx="300" cy="55" rx="25" ry="30" fill="#A1887F"/>
+
+  <!-- Play button overlay -->
+  <circle cx="200" cy="125" r="40" fill="white" opacity="0.9"/>
+  <polygon points="188,105 188,145 220,125" fill="#5D4037"/>
+
+  <!-- Video progress bar -->
+  <rect x="20" y="230" width="360" height="6" rx="3" fill="#3E2723"/>
+  <rect x="20" y="230" width="120" height="6" rx="3" fill="#25D366"/>
+
+  <!-- Time indicator -->
+  <text x="370" y="220" font-family="Arial" font-size="12" fill="white" text-anchor="end">0:45</text>
+
+  <!-- Video label -->
+  <rect x="20" y="20" width="120" height="25" rx="4" fill="#F44336"/>
+  <text x="80" y="37" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">TESTIMONIO</text>
+</svg>

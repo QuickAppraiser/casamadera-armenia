@@ -1,0 +1,24 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#F5F5F5"/>
+
+  <!-- Empty room -->
+  <!-- Floor -->
+  <rect x="0" y="150" width="300" height="50" fill="#E0E0E0"/>
+
+  <!-- Walls -->
+  <rect x="0" y="0" width="300" height="150" fill="#FAFAFA"/>
+
+  <!-- Wall corner line -->
+  <line x1="0" y1="150" x2="300" y2="150" stroke="#BDBDBD" stroke-width="2"/>
+
+  <!-- Window -->
+  <rect x="180" y="30" width="80" height="90" fill="#E3F2FD" stroke="#90CAF9" stroke-width="3"/>
+  <line x1="220" y1="30" x2="220" y2="120" stroke="#90CAF9" stroke-width="2"/>
+  <line x1="180" y1="75" x2="260" y2="75" stroke="#90CAF9" stroke-width="2"/>
+
+  <!-- Outlet -->
+  <rect x="40" y="120" width="15" height="20" rx="2" fill="#E0E0E0" stroke="#BDBDBD"/>
+
+  <!-- Empty indicator -->
+  <text x="150" y="180" font-family="Arial" font-size="12" fill="#9E9E9E" text-anchor="middle">Espacio vacío</text>
+</svg>
