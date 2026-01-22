@@ -52,7 +52,7 @@
 
   <!-- Decorative text area -->
   <rect x="400" y="50" width="150" height="100" rx="8" fill="#5D4037" opacity="0.1"/>
-  <text x="475" y="90" font-family="Arial" font-size="14" fill="#5D4037" text-anchor="middle" font-weight="bold">CasaMadera</text>
-  <text x="475" y="110" font-family="Arial" font-size="12" fill="#8D6E63" text-anchor="middle">Armenia</text>
+  <text x="475" y="90" font-family="Arial" font-size="14" fill="#5D4037" text-anchor="middle" font-weight="bold">Muebles Excalibur</text>
+  <text x="475" y="110" font-family="Arial" font-size="12" fill="#8D6E63" text-anchor="middle">Quindío</text>
   <text x="475" y="135" font-family="Arial" font-size="10" fill="#A1887F" text-anchor="middle">Calidad y Confort</text>
 </svg>

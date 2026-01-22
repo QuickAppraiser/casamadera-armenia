@@ -34,7 +34,7 @@
 
   <!-- Location label -->
   <rect x="150" y="85" width="180" height="30" rx="15" fill="#5D4037"/>
-  <text x="240" y="105" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">CasaMadera Armenia</text>
+  <text x="240" y="105" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">Muebles Excalibur</text>
 
   <!-- Street labels -->
   <text x="380" y="180" font-family="Arial" font-size="10" fill="#666">Centro de Armenia</text>
