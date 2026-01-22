@@ -1,5 +1,5 @@
 /**
- * CasaMadera Armenia - JavaScript Principal
+ * Muebles Excalibur - JavaScript Principal
  * Optimizado para conversión y UX
  */
 
@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // ============================================
     // CONSOLE BRANDING
     // ============================================
-    console.log('%c CasaMadera Armenia ', 'background: #5D4037; color: white; font-size: 16px; padding: 10px;');
+    console.log('%c Muebles Excalibur ', 'background: #5D4037; color: white; font-size: 16px; padding: 10px;');
     console.log('%c Muebles de calidad en el Quindío ', 'color: #8D6E63; font-size: 12px;');
     console.log('%c WhatsApp: +57 311 311 1669 ', 'color: #25D366; font-size: 12px;');
 });
