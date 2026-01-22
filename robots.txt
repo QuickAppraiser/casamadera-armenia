@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mueblesexcalibur.com/sitemap.xml
+Sitemap: https://quickappraiser.github.io/casamadera-armenia/sitemap.xml
